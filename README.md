@@ -64,13 +64,13 @@ The classification objective is to categorize subjects into one of the following
     ```
 ## Collaborators
 
-*This project was a collaborative effort.
-*Elsa Guerra Elena
-*Maru Mendez Ortuondo
-*Carla Sala Moncho
-*Carla Salavert Martí
-*Elena Adán Lledó
-*Marc Romeu Ferrás
+This project was a collaborative effort.
+* Elsa Guerra Elena
+* Maru Mendez Ortuondo
+* Carla Sala Moncho
+* Carla Salavert Martí
+* Elena Adán Lledó
+* Marc Romeu Ferrás
 
 
 ---
